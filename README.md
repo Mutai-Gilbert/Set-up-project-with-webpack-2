@@ -3,9 +3,8 @@
 <div align="center">
 
   <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
-    <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
+
   <br/>
-💜
   <h3><b>Personal README Template</b></h3>
   <br/>
   
@@ -109,9 +108,6 @@ Clone this repository to your desired folder:
 <!-- Author -->
 
 👤 **Author**
-Anna Petras
-
-- GitHub: [@annaeliana7](https://github.com/annaeliana7)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -143,9 +139,6 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-💜 HaShem (Abba) and Yeshua, I LOVE YOU! 💜 Thank you!
-I HONOR + GLORIFY YOU FOREVER ... 💜
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,21 +146,3 @@ I HONOR + GLORIFY YOU FOREVER ... 💜
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br>
-
-
-<!-- Author's message -->
-
-<div align="center">
-    <img src="assets-README/kefi-Unearthed-5.png"  alt="logo" width="250"  height="auto" />
-    <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
-💜
-<br>
-💜
-<br>
-💜
-<br>
-PETRAS FAMILY
