@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
-
   <br/>
   <h3><b>Personal README Template</b></h3>
   <br/>
@@ -54,8 +52,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Demo Image
-<br>
-<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
